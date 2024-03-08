@@ -1,3 +1,3 @@
 # Arthur Lange Da Silva
 estudante de desenvolvimento de sistemas.
-Este é o meu primeiro repositor 
+Este é o meu primeiro repositório 
